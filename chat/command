@@ -1,0 +1,14 @@
+For vs code
+
+Blackbox
+ctrl+L 
+
+For ubuntu
+
+Sudo apt install git
+Git clone https://github.com/aandrew-me/tgpt.git
+Cd tgpt
+Chomd +x ./install
+Sudo apt install curl
+./install
+Tgpt “what your need”
