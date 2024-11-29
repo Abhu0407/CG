@@ -12,3 +12,9 @@ Chomd +x ./install
 Sudo apt install curl
 ./install
 Tgpt “what your need”
+
+
+run command 
+
+git x.cpp -o x -I/user/include/GL -lGL -lGLU -lglut
+./x
